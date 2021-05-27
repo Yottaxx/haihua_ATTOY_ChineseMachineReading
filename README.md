@@ -23,10 +23,8 @@ https://www.biendata.xyz/competition/haihua_2021
 ### 1.预训练模型：MacBERT-Large
 ### 2.对抗训练
 FreeLB [ICLR 2020]
-![IMAGE](quiver-image-url/BE40675CF7BCE438939D4CF065386840.jpg =625x336)
 ### 3.知识蒸馏
 Born Agai nNeural Networks [ICML 2018]
-![IMAGE](quiver-image-url/5D00ED7B51C9F7F8D34D6836F15E3CB9.jpg =313x289)
 
 [ICLR 2020]: https://openreview.net/forum?id=BygzbyHFvB
 [ICML 2018]: https://openreview.net/forum?id=H1EwisW_-r
