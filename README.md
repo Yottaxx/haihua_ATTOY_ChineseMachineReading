@@ -24,7 +24,7 @@ https://www.biendata.xyz/competition/haihua_2021
 ### 2.对抗训练
 FreeLB [ICLR 2020]
 ### 3.知识蒸馏
-Born Agai nNeural Networks [ICML 2018]
+Born Again Neural Networks [ICML 2018]
 
 [ICLR 2020]: https://openreview.net/forum?id=BygzbyHFvB
 [ICML 2018]: https://openreview.net/forum?id=H1EwisW_-r
